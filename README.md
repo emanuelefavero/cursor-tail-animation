@@ -1,6 +1,6 @@
 # Cursor Tail Animation
 
-This is a nice cursor tail animation. It replaces the default cursor with a custom one that has a tail.
+This is a snippet for a cursor tail animation. It replaces the default cursor with a custom one that has a tail.
 
 #### Screenshot
 
