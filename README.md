@@ -6,6 +6,8 @@ This is a snippet for a cursor tail animation. It replaces the default cursor wi
 
 [https://emanuelefavero.github.io/cursor-tail-animation/](https://emanuelefavero.github.io/cursor-tail-animation/)
 
+> Note: This animation only works on desktop
+
 #### Screenshot
 
 ![Screenshot](./Screenshot.png 'Screenshot')
