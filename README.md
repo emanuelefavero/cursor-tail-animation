@@ -17,3 +17,7 @@ This is a snippet for a cursor tail animation. It replaces the default cursor wi
 - clone this repo and `cd` into it, then open the `index.html` file in your browser
 
 > Note: The CSS and JS files are inside in the `index.html` file for "copy and paste" purposes.
+
+## License
+
+[MIT](LICENSE.md)
